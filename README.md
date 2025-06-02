@@ -1,8 +1,5 @@
 # Xray lung classifier
 
-Data link: https://drive.google.com/file/d/1pfIAlurfeqFTbirUZ5v_vapIoGPgRiXY/view?usp=sharing
-
-
 ## Workflows
 
 - constants
@@ -13,4 +10,8 @@ Data link: https://drive.google.com/file/d/1pfIAlurfeqFTbirUZ5v_vapIoGPgRiXY/vie
 - main
 
 
-# pipeline is completed
+# Requirement install 
+ pip install -r requirements.txt
+
+# To Run
+ streamlit app.py
